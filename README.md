@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 ### 🌱 **About**
 - 🎓 **Studying:** Business Science in Information Systems
 - 🔍 **Learning:** SQL, Python (and GitHub)
-- 🏆 **Goals:** Build cool projects and grow my skills!
+- 🏆 **Goals:** Build cool projects and grow my skills
 
 ![anime gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWZuMTByenhqbjVkOWVvemtpMmdtMHh2aGNnbHh4dzlmYzZoZnlrYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4aCi2Ov0wtYpG/giphy.gif)
