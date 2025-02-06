@@ -1,5 +1,4 @@
-## Hi there 👋
-# 🌸 **Welcome to My GitHub!** 🌸
+## 🌸 **Welcome to My GitHub!** 🌸
 
 <!--
 **cwei127/cwei127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,4 +19,4 @@ Here are some ideas to get you started:
 - 🔍 **Learning:** SQL, Python (and GitHub)
 - 🏆 **Goals:** Build cool projects and grow my skills!
 
-![Anime GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG9rYXlmdzdxMzFrN2phbnhodDJxNGd1YzB3aWVyaHptbjdobTJwbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif)
+![anime gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWZuMTByenhqbjVkOWVvemtpMmdtMHh2aGNnbHh4dzlmYzZoZnlrYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4aCi2Ov0wtYpG/giphy.gif)
