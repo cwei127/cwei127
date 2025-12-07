@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 🌱 **About**
-- 🎓 **Studying:** Business Science in Information Systems
+- 🎓 **Studying:** BCom in Information Systems
 - 🔍 **Learning:** SQL, Python (and GitHub)
 - 🏆 **Goals:** Build cool projects and grow my skills
 
